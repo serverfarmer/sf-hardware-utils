@@ -1,2 +1,5 @@
-sf-hardware-utils is a dependency extension, providing hardware-level
-discovery and management scripts used by many other extensions.
+## Deprecated
+
+This repository contains old, deprecated extension to Server Farmer.
+
+It was partially replaced with [sf-storage-utils](https://github.com/serverfarmer/sf-storage-utils) extension.
